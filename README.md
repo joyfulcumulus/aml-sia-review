@@ -15,7 +15,7 @@ The objective of the project is to leverage machine learning (ML) to automate se
 Programming language
 * Python
 
-Machine learning models tested
+Machine learning models tested   
 Sentiment classification
 * Logistic regression (with finetuned DistilBERT embeddings)
 * XGBoost (with finetuned DistilBERT embeddings)
